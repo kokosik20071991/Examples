@@ -7,6 +7,11 @@
 }
 
 int[] array = { 11, 22, 83, 63, 67, 18, 54, 42, 37};
-array[0] = 12;
-Console.WriteLine(array[0]);
+
+int result = Max(
+    Max(array[0], array[1], array[2]),
+    Max(array[3], array[4], array[5]),
+    Max(array[6], array[7], array[8])
+);
+Console.WriteLine(result);
 
