@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\Examples010.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\Examples010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\Examples010.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\Examples010.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\Examples010.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Examples\Examples010\bin\Debug\net6.0\Examples010.exe
+C:\Users\Виктория\Desktop\Examples\Examples010\bin\Debug\net6.0\Examples010.deps.json
+C:\Users\Виктория\Desktop\Examples\Examples010\bin\Debug\net6.0\Examples010.runtimeconfig.json
+C:\Users\Виктория\Desktop\Examples\Examples010\bin\Debug\net6.0\Examples010.dll
+C:\Users\Виктория\Desktop\Examples\Examples010\bin\Debug\net6.0\Examples010.pdb
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\Examples010.dll
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\refint\Examples010.dll
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\Examples010.pdb
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\Examples010.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\Examples\Examples010\obj\Debug\net6.0\ref\Examples010.dll
